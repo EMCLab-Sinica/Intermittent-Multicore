@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)">
+<ExpandedNodeIds>
+<v>Heterogeneity_aware_intermittent_systems-000</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\TopDesign</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Heterogeneity_aware_intermittent_systems.cydwr\Pins</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Heterogeneity_aware_intermittent_systems.cydwr\Analog</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Heterogeneity_aware_intermittent_systems.cydwr\DMA</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Heterogeneity_aware_intermittent_systems.cydwr\Clocks</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Heterogeneity_aware_intermittent_systems.cydwr\Interrupts</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Heterogeneity_aware_intermittent_systems.cydwr\System</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Heterogeneity_aware_intermittent_systems.cydwr\Directives</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\ARM GCC Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\ARM IAR Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\ARM MDK Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\include</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\include\croutine01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\include\event_groups01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\include\FreeRTOS01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\include\list01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\include\mpu_wrappers01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\include\portable01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\include\projdefs01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\include\queue01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\include\semphr01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\include\StackMacros01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\include\task01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\include\timers01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\protable</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\protable\heap_101.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\protable\port01.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\protable\portable01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\protable\portmacro01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\croutine01.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\event_groups01.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\list01.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\queue01.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\tasks01.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\FreeRTOS\timers01.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Header Files</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Header Files\FreeRTOSConfig01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Header Files\rtos01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc6_01_cm0plus.s</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\FailureResilient</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\FailureResilient\DataManager</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\FailureResilient\DataManager\DMAPIs.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\FailureResilient\DataManager\DMAPIs.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\FailureResilient\RecoveryHandler</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\FailureResilient\RecoveryHandler\Recovery01.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\FailureResilient\RecoveryHandler\Recovery01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\Utilities</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\Utilities\FlashWrite</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\Utilities\FlashWrite\flash01.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\Utilities\FlashWrite\flash01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\Utilities\UART</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\Utilities\UART\UARTM0.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\Utilities\UART\UARTM0.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Source Files\system_psoc6_cm0plus.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\2-dimMatrix01.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\2-dimMatrix01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\blinkLED.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\blinkLED.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\dataTest01.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\dataTest01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\firFilter01.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\firFilter01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\math02.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\math02.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\math06.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\math06.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\matrixmultiplication01.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\matrixmultiplication01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\oneDmatrix.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\oneDmatrix.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\senseTemp.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\senseTemp.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\Tester01.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\touch.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\touch.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\UartOutM0.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)\Tasks\UartOutM0.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\ARM GCC Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\ARM IAR Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\ARM MDK Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\croutine.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\event_groups.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\FreeRTOS.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\list.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\mpu_wrappers.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\portable.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\projdefs.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\queue.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\semphr.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\StackMacros.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\task.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\timers.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\protable</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\protable\heap_1.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\protable\port.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\protable\portable.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\protable\portmacro.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\croutine.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\event_groups.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\list.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\queue.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\tasks.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\timers.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Header Files</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Header Files\FreeRTOSConfig.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Header Files\rtos.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\FailureResilient</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\FailureResilient\RecoveryHandler</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\FailureResilient\RecoveryHandler\Recovery.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\FailureResilient\RecoveryHandler\Recovery.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\FailureResilient\Utilities</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\FailureResilient\Utilities\FlashWrite</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\FailureResilient\Utilities\FlashWrite\flash.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\FailureResilient\Utilities\FlashWrite\flash.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\FailureResilient\Utilities\UART</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\FailureResilient\Utilities\UART\UARTM4.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\FailureResilient\Utilities\UART\UARTM4.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\2-dimMatrix.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\2-dimMatrix.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\blinkLEDG.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\blinkLEDG.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\dataTest.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\dataTest.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\dft.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\dft.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\FIR.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\FIR.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\firFilter.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\firFilter.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\floating.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\floating.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\math16.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\math16.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\matrixmultiplication.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\matrixmultiplication.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\sha256.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\sha256.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\task.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\Tester.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\transmit2PC.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\transmit2PC.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\twoDmatrix.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\twoDmatrix.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\UartOutM4.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\UartOutM4.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\whetstone.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Tasks\whetstone.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Shared Files\Common.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Shared Files\Common.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Shared Files\config.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Shared Files\cyapicallbacks.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Shared Files\profiler.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Shared Files\profiler.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Shared Files\SharedDB.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Shared Files\SharedDB.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Shared Files\system_psoc6.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Shared Files\TRN.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Shared Files\TRN.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Generated_Source</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Generated_Source\PSoC6</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Heterogeneity_aware_intermittent_systems-000</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\TopDesign</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Heterogeneity_aware_intermittent_systems.cydwr</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM0p (Core 0)</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\ARM GCC Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\ARM IAR Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\ARM MDK Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\croutine.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\event_groups.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\FreeRTOS.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\list.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\mpu_wrappers.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\portable.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\projdefs.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\queue.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\semphr.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\StackMacros.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\task.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\include\timers.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\protable</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\protable\heap_1.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\protable\port.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\protable\portable.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\protable\portmacro.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\croutine.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\event_groups.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\list.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\queue.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\tasks.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\FreeRTOS\timers.c</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Header Files</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Header Files\FreeRTOSConfig.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Header Files\rtos.h</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CM4 (Core 1)\Source Files\FailureResilient</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Heterogeneity_aware_intermittent_systems-000</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\TopDesign</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Heterogeneity_aware_intermittent_systems-000</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\TopDesign</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Heterogeneity_aware_intermittent_systems-000</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM0p</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM0p\ARM_GCC_541</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM0p\ARM_GCC_541\Debug</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM0p\ARM_GCC_541\Debug\Heterogeneity_aware_intermittent_systems.elf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM0p\ARM_GCC_541\Debug\Heterogeneity_aware_intermittent_systems.hex</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM0p\ARM_GCC_541\Debug\Heterogeneity_aware_intermittent_systems.map</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM4</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM4\ARM_GCC_541</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM4\ARM_GCC_541\Debug</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM4\ARM_GCC_541\Debug\Heterogeneity_aware_intermittent_systems.elf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM4\ARM_GCC_541\Debug\Heterogeneity_aware_intermittent_systems.hex</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM4\ARM_GCC_541\Debug\Heterogeneity_aware_intermittent_systems.map</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Heterogeneity_aware_intermittent_systems.gpdsc</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Heterogeneity_aware_intermittent_systems.rpt</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Heterogeneity_aware_intermittent_systems_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Heterogeneity_aware_intermittent_systems-000</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM0p</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM0p\ARM_GCC_541</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM0p\ARM_GCC_541\Debug</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM0p\ARM_GCC_541\Debug\Heterogeneity_aware_intermittent_systems.elf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM0p\ARM_GCC_541\Debug\Heterogeneity_aware_intermittent_systems.hex</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM0p\ARM_GCC_541\Debug\Heterogeneity_aware_intermittent_systems.map</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM4</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM4\ARM_GCC_541</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM4\ARM_GCC_541\Debug</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM4\ARM_GCC_541\Debug\Heterogeneity_aware_intermittent_systems.elf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM4\ARM_GCC_541\Debug\Heterogeneity_aware_intermittent_systems.hex</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CortexM4\ARM_GCC_541\Debug\Heterogeneity_aware_intermittent_systems.map</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Heterogeneity_aware_intermittent_systems.gpdsc</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Heterogeneity_aware_intermittent_systems.rpt</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Heterogeneity_aware_intermittent_systems_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Heterogeneity_aware_intermittent_systems-000</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\PSoC 6 Architecture TRM</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\PSoC 62 Family Datasheet</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Peripheral Driver Library</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\System Reference Guides</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CapSense_v2_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\cy_gsref_v2_10</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\cy_gsref_v2_10\cy_gsref_v2_10.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\GPIO_PDL_v1_0</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\LED_v1_0</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\LED_v1_0\LED_v1_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\LPComp_PDL_v1_10</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\LPComp_PDL_v1_10\LPComp_PDL_v1_10.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Power_v1_0</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Power_v1_0\Power_v1_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Resistor_v1_0</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Scan_ADC_P6_v2_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SCB_EZI2C_PDL_v2_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SCB_I2C_PDL_v2_0</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SCB_I2C_PDL_v2_0\SCB_I2C_PDL_v2_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SCB_SPI_PDL_v2_0</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SCB_SPI_PDL_v2_0\SCB_SPI_PDL_v2_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SCB_UART_PDL_v2_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SysClk_PDL_v1_0</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SysClk_PDL_v1_0\SysClk_PDL_v1_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SysInt_PDL_v1_0</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SysInt_PDL_v1_0\SysInt_PDL_v1_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\TCPWM_Counter_PDL_v1_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\TCPWM_PWM_PDL_v1_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Heterogeneity_aware_intermittent_systems-000</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\PSoC 6 Architecture TRM</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\PSoC 62 Family Datasheet</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Peripheral Driver Library</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\System Reference Guides</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\CapSense_v2_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\cy_gsref_v2_10</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\cy_gsref_v2_10\cy_gsref_v2_10.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\GPIO_PDL_v1_0</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\LED_v1_0</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\LED_v1_0\LED_v1_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\LPComp_PDL_v1_10</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\LPComp_PDL_v1_10\LPComp_PDL_v1_10.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Power_v1_0</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Power_v1_0\Power_v1_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Resistor_v1_0</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\Scan_ADC_P6_v2_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SCB_EZI2C_PDL_v2_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SCB_I2C_PDL_v2_0</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SCB_I2C_PDL_v2_0\SCB_I2C_PDL_v2_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SCB_SPI_PDL_v2_0</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SCB_SPI_PDL_v2_0\SCB_SPI_PDL_v2_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SCB_UART_PDL_v2_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SysClk_PDL_v1_0</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SysClk_PDL_v1_0\SysClk_PDL_v1_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SysInt_PDL_v1_0</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\SysInt_PDL_v1_0\SysInt_PDL_v1_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\TCPWM_Counter_PDL_v1_0.pdf</v>
+<v>Heterogeneity_aware_intermittent_systems-000\Heterogeneity_aware_intermittent_systems\TCPWM_PWM_PDL_v1_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs />
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1410, 711" SelectedTabbedMdiWindow="bb92ec4d-8435-4ed1-9654-08295ea7c232"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="bb92ec4d-8435-4ed1-9654-08295ea7c232" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
