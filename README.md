@@ -1,18 +1,13 @@
-# HAMIS: **H**eterogeneity-**a**ware Concurrency and Synchronization for **M**ulticore **I**ntermittent **S**ystems
+# **H**eterogeneity-**a**ware Concurrency and Synchronization for **M**ulticore **I**ntermittent **S**ystems
 
 <!-- ABOUT THE PROJECT -->
 ## Project Description
 
-This project provides a demo of a heterogeneity-aware intermittent system (HAMIS) which addresses concurrent task execution on multicore intermittent systems. To maximize forward progress, HAMIS utilizes adaptive synchronization to adapt tasks to variations in blocking durations due to heterogeneous memories, as well as allows data access operations to be dynamically delegated among cores to leverage computing power provided by heterogeneous cores. HAMIS also features the following abilities:
-1. allow *concurrent* tasks execution on multiple cores to improve forward progress progress
-2. achieve *serializability* and *consistency* between data and computing progress
-3. recover the system *instantly* from power failures
-4. *accumulatively* preserve computation progress across power cycles
+This project provides a demo of a heterogeneity-aware intermittent system which addresses concurrent task execution on multicore intermittent systems. To maximize forward progress, our design shows how heterogeneous multi-cores can help in improving the forward progress in resolving the latency problem in dataa ccess. In particular, a light-weighted synchronization mechanism is proposed to allow data accesses being realized over heterogeneous cores to adapt to different I/O latencies of volatile and non-volatilememory. The serialization of task executions is always guaranteed with the capability of an instantsystem recovery even when the system is interrupted by any power failure. Our proposed design isrealized in a FreeRTOS-extended intermittent operating system running over a Cypress platformfeaturing heterogeneous dual cores and hybrid memories.
 
 ## Implementaton Description
-We integrated our design into FreeRTOS, a real-time operating system supporting many kinds of microcontrollers, running on the CY8CKIT-062-WiFi-BT platform.
-Our implementation comprises an additional 13 files and 996 lines of C code, among which 24 lines are scattered in 2 files belonging to the kernel.
-HAMIS is realized on top of the task scheduler and memory manager of FreeRTOS. For portability across different platforms and operating systems, HAMIS is integrated with minimized kernel code modifications. Specifically, the implementation comprises 13 files and 1218 lines of C code, among which 34 lines are scattered in 2 files belonging to the kernel.
+We realize the heterogeneity-aware design, particularlyadaptive synchronizationanddelegable task commitment, and integrate it into an intermittent operating system,which was built upon on FreeRTOS according to the failure-resilient design to enable intermittent-aware task concurrency on single-core devices. 
+Our implementation comprises an additional 13 files and 996 lines of C code, among which 24 lines are scattered in 2 files belonging to the kernel. is realized on top of the task scheduler and memory manager of FreeRTOS. For portability across different platforms and operating systems, HAMIS is integrated with minimized kernel code modifications. Specifically, the implementation comprises 13 files and 1218 lines of C code, among which 34 lines are scattered in 2 files belonging to the kernel.
 The data manager uses the functions, pvPortMalloc() and vPortFree(), provided by the memory manager of FreeRTOS to allocate data and reclaim invalid data, as well as the functions, vTaskSuspend() and vTaskResume(), provided by the scheduler of FreeRTOS to respectively remove tasks from and add tasks into the ready queue for adaptive synchronization. The recovery handler uses the function, xTaskCreate(), of the scheduler to recreate unfinished tasks.
 
 <!-- TABLE OF CONTENTS -->
