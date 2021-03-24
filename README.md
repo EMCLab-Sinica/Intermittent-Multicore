@@ -7,7 +7,7 @@ This project provides a demo of a heterogeneity-aware intermittent system which 
 
 ## Implementaton Description
 We realize the heterogeneity-aware design, particularlyadaptive synchronizationanddelegable task commitment, and integrate it into an intermittent operating system,which was built upon on FreeRTOS according to the failure-resilient design to enable intermittent-aware task concurrency on single-core devices. 
-Our implementation comprises an additional 13 files and 996 lines of C code, among which 24 lines are scattered in 2 files belonging to the kernel. is realized on top of the task scheduler and memory manager of FreeRTOS. For portability across different platforms and operating systems, HAMIS is integrated with minimized kernel code modifications. Specifically, the implementation comprises 13 files and 1218 lines of C code, among which 34 lines are scattered in 2 files belonging to the kernel.
+Our implementation is realized on top of the task scheduler and memory manager of FreeRTOS. For portability across different platforms and operating systems, HAMIS is integrated with minimized kernel code modifications. Specifically, the implementation comprises 13 files and 1218 lines of C code, among which 34 lines are scattered in 2 files belonging to the kernel.
 The data manager uses the functions, pvPortMalloc() and vPortFree(), provided by the memory manager of FreeRTOS to allocate data and reclaim invalid data, as well as the functions, vTaskSuspend() and vTaskResume(), provided by the scheduler of FreeRTOS to respectively remove tasks from and add tasks into the ready queue for adaptive synchronization. The recovery handler uses the function, xTaskCreate(), of the scheduler to recreate unfinished tasks.
 
 <!-- TABLE OF CONTENTS -->
