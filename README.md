@@ -1,7 +1,7 @@
 # Heterogeneity-aware Multicore Synchronization for Intermittent Systems
 
 <p align="center">
-  <img src="https://github.com/meenchen/HAMIS_DEMO/blob/master/DesignOverview.jpg" alt="teaser"  />
+  <img src="https://github.com/meenchen/HAMIS_DEMO/blob/master/DesignOverview.jpg" alt="teaser" width="768" />
 </p>
 
 <!-- ABOUT THE PROJECT -->
