@@ -1,4 +1,4 @@
-# Heterogeneity-aware Multicore Synchronization for Intermittent Systems
+# A Multicore Intermittent Operating System: Heterogeneity-aware Multicore Synchronization
 
 
 
