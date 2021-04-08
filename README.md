@@ -1,17 +1,20 @@
 # Heterogeneity-aware Multicore Synchronization for Intermittent Systems
 
 
+
 <!-- ABOUT THE PROJECT -->
 ## Project Description
 This project develops a multicore intermittent operating system upon FreeRTOS to facilitate programmers in developing applications on energy-harvesting multicore devices regardless of power stability, while exempting them from the responsibility of handling task concurrency and synchronization.
 
 Intermittent systems enable batteryless devices to operate with energy harvesting by leveraging the complementary characteristics of volatile (VM) and non-volatile memory (NVM). Unfortunately, alternate and frequent accesses to heterogeneous memories for accumulative execution across power cycles can significantly hinder computation progress. We advocate that intermittent systems should move toward heterogeneous multicore architectures, so that core heterogeneity can be leveraged to mitigate the forward progress reduction caused by memory heterogeneity. To demonstrate the efficacy, a delegable and adaptive synchronization protocol is proposed to allow memory accesses to be delegated between cores and dynamically adapt to diverse memory access latency. Moreover, our design guarantees task serializability across multiple cores and maintains data consistency despite frequent power failures
 
-<p align="center">
-  <img src="https://i.imgur.com/HrdU833.jpg" alt="teaser" width="768" />
-</p>
 
 ## Implementaton Description
+
+<p align="center">
+  <img src="https://i.imgur.com/HrdU833.jpg" width="768" />
+</p>
+
 We integrated our heterogeneity-aware design into FreeRTOS, a real-time operating system supporting many kinds of commercial microcontrollers, to realize an intermittent-aware multi-core operating system. Two modules, namely a data manager and a recovery handler, were added on top of the memory manager and the task scheduler of FreeRTOS, with 1218 lines of C code scattered into 13 files. The data manager is responsible for data management, adaptive synchronization, and two-phase validation, while the recovery handler allows delegable commitment and instant system recovery. Our FreeRTOS-extended operating system is then deployed on a Cypress CY8CKIT-062-WiFi-BT device, which features heterogeneous dual cores and hybrid memories, to enable intermittent-aware multicore concurrency control.
 
 The data manager maintains memory space used by data versions and copies in hybrid memories. To this end, the data manager uses the functions, pvPortMalloc() and vPortFree(), provided by the memory manager to allocate data and reclaim invalid data. A data structure is maintained in NVM to record the location and size of the consistent version of each data object, whereas the corresponding information of temporary copies and working versions are maintained in VM. To avoid data corruption, tasks must access data objects through our read, write, and commit operations, which replace the original implementations provided by FreeRTOS.
