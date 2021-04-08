@@ -1,5 +1,9 @@
 # Heterogeneity-aware Multicore Synchronization for Intermittent Systems
 
+<p align="center">
+  <img src="https://github.com/meenchen/HAMIS_DEMO/blob/master/DesignOverview.jpg" alt="teaser" width="510" height="340" />
+</p>
+
 <!-- ABOUT THE PROJECT -->
 ## Project Description
 This project develops a multicore intermittent operating system upon FreeRTOS to facilitate programmers in developing applications on energy-harvesting multicore devices regardless of power stability, while exempting them from the responsibility of handling task concurrency and synchronization.
