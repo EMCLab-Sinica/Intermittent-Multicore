@@ -57,8 +57,8 @@ Now, the demo project is ready to go. Just launch the demo application by clicki
 This project is co-led by Dr. Pi-Cheng Hsiu (Academia Sinica) and Dr. Tei-Wei Kuo (National Taiwan University). Listed below are the contributors.
 
 Wei-Ming Chen (Academia Sinica & National Taiwan University),
-Pi-Cheng Hsiu (Academia Sinica),
-Tei-Wei Kuo (National Taiwan University)
+Tei-Wei Kuo (University of Hong Kong),
+Pi-Cheng Hsiu (Academia Sinica)
 
 ## License
 
