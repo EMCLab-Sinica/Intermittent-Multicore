@@ -6,7 +6,7 @@
 ## Project Description
 This project develops a multicore intermittent operating system upon FreeRTOS to facilitate programmers in developing applications on energy-harvesting multicore devices regardless of power stability, while exempting them from the responsibility of handling task concurrency and synchronization.
 
-Intermittent systems enable batteryless devices to operate with energy harvesting by leveraging the complementary characteristics of volatile (VM) and non-volatile memory (NVM). Unfortunately, alternate and frequent accesses to heterogeneous memories for accumulative execution across power cycles can significantly hinder computation progress. We advocate that intermittent systems should move toward heterogeneous multicore architectures, so that core heterogeneity can be leveraged to mitigate the forward progress reduction caused by memory heterogeneity. To demonstrate the efficacy, a delegable and adaptive synchronization protocol is proposed to allow memory accesses to be delegated between cores and dynamically adapt to diverse memory access latency. Moreover, our design guarantees task serializability across multiple cores and maintains data consistency despite frequent power failures
+Intermittent systems enable batteryless devices to operate with energy harvesting by leveraging the complementary characteristics of volatile (VM) and non-volatile memory (NVM). Unfortunately, alternate and frequent accesses to heterogeneous memories for accumulative execution across power cycles can significantly hinder computation progress. We advocate that intermittent systems should move toward heterogeneous multicore architectures, so that core heterogeneity can be leveraged to mitigate the forward progress reduction caused by memory heterogeneity. To demonstrate the efficacy, a delegable and adaptive synchronization protocol is proposed to allow memory accesses to be delegated between cores and dynamically adapt to diverse memory access latency. Moreover, our design guarantees task serializability across multiple cores and maintains data consistency despite frequent power failures. For more technical details, please refer to [our paper](https://www.citi.sinica.edu.tw/papers/pchsiu/8055-F.pdf "link")
 
 
 ## Implementaton Description
@@ -51,6 +51,14 @@ Here are the basic software and hardware you need to build the applications runn
 3. Build and flash to your device
 
 Now, the demo project is ready to go. Just launch the demo application by clicking the debug button. In PSoC Creator, you can trace how the design works step by step. You can also use the reset button on the board to simulate power failure and resumption and see logging outputs from your COM port to check the forward progress of tasks running on this dual-core device. 
+
+## Contributors
+
+This project is co-led by Dr. Pi-Cheng Hsiu (Academia Sinica) and Dr. Tei-Wei Kuo (National Taiwan University). Listed below are the contributors.
+
+Wei-Ming Chen (Academia Sinica & National Taiwan University),
+Pi-Cheng Hsiu (Academia Sinica),
+Tei-Wei Kuo (National Taiwan University)
 
 ## License
 
